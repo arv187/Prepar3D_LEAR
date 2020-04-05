@@ -1,4 +1,4 @@
-# Prepar3D
+# Prepar3D LEAR
  
 - El escenario está situado donde se celebró el festival Rock in Rio, en Arganda del Rey. Tiene dos pistas operativas, una de asfalto y otra de cesped para aviación general, además de una acuática sin uso.
 
