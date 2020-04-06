@@ -1897,6 +1897,20 @@
          scale="0.50"
          />
    </SceneryObject>
+   <SceneryObject
+      lat="40.2574434028409"
+      lon="-3.4074699084902"
+      alt="0.0F"
+      altitudeIsAgl="TRUE"
+      pitch="0"
+      bank="0"
+      heading="90.9150714736347"
+      imageComplexity="NORMAL">
+      <LibraryObject
+         name="{598dfd32-c38b-46e5-bea2-2c04a5b01519}"
+         scale="1.00"
+         />
+   </SceneryObject>
    <Airport
       country="Spain"
       state="Arganda del Rey"
@@ -2520,8 +2534,8 @@
          index="89"
          type="NORMAL"
          orientation="FORWARD"
-         lat="40.2598171229553"
-         lon="-3.40142209043265"/>
+         lat="40.2598164425888"
+         lon="-3.40145623241547"/>
       <TaxiwayPoint
          index="90"
          type="NORMAL"
@@ -3011,7 +3025,7 @@
          type="GATE_HEAVY"
          name="GATE"
          number="1"
-         airlineCodes="ARV, 787"
+         airlineCodes="ARV"
          pushBack="BOTH"/>
       <TaxiwayParking
          index="1"
@@ -3022,21 +3036,10 @@
          type="GATE_HEAVY"
          name="GATE"
          number="2"
-         airlineCodes="ARV, 787"
+         airlineCodes="ARV"
          pushBack="BOTH"/>
       <TaxiwayParking
          index="2"
-         lat="40.2552618259061"
-         lon="-3.41641732932211"
-         heading="175"
-         radius="40.1M"
-         type="GATE_HEAVY"
-         name="GATE"
-         number="3"
-         airlineCodes="ARV, 787"
-         pushBack="BOTH"/>
-      <TaxiwayParking
-         index="3"
          lat="40.2555370787746"
          lon="-3.41546845555963"
          heading="175"
@@ -3047,7 +3050,7 @@
          airlineCodes="ARV, 787"
          pushBack="BOTH"/>
       <TaxiwayParking
-         index="4"
+         index="3"
          lat="40.2556670539431"
          lon="-3.41469799756845"
          heading="178.516207605654"
@@ -3056,13 +3059,9 @@
          name="GATE"
          number="5"
          airlineCodes="ARV"
-         teeOffset1="10"
-         teeOffset2="12.8"
-         teeOffset3="17"
-         teeOffset4="19.5"
          pushBack="BOTH"/>
       <TaxiwayParking
-         index="5"
+         index="4"
          lat="40.2558385806479"
          lon="-3.4140755918732"
          heading="181.88002779396"
@@ -3073,7 +3072,7 @@
          airlineCodes="ARV"
          pushBack="BOTH"/>
       <TaxiwayParking
-         index="6"
+         index="5"
          lat="40.256005412021"
          lon="-3.41348340851096"
          heading="177.944362745256"
@@ -3084,7 +3083,7 @@
          airlineCodes="ARV"
          pushBack="BOTH"/>
       <TaxiwayParking
-         index="7"
+         index="6"
          lat="40.2561830033073"
          lon="-3.41289021062621"
          heading="177.50719558386"
@@ -3095,7 +3094,7 @@
          airlineCodes="ARV"
          pushBack="BOTH"/>
       <TaxiwayParking
-         index="8"
+         index="7"
          lat="40.2570880641719"
          lon="-3.41219373619026"
          heading="231.30899189385"
@@ -3104,13 +3103,9 @@
          name="PARKING"
          number="1"
          airlineCodes="ARV"
-         teeOffset1="10"
-         teeOffset2="12.8"
-         teeOffset3="17"
-         teeOffset4="19.5"
          pushBack="BOTH"/>
       <TaxiwayParking
-         index="9"
+         index="8"
          lat="40.2579979862159"
          lon="-3.40751858208354"
          heading="185.894402448995"
@@ -3121,7 +3116,7 @@
          airlineCodes="ARV"
          pushBack="BOTH"/>
       <TaxiwayParking
-         index="10"
+         index="9"
          lat="40.2583939172519"
          lon="-3.4061676624123"
          heading="185.570047240567"
@@ -3131,7 +3126,7 @@
          number="10"
          pushBack="BOTH"/>
       <TaxiwayParking
-         index="11"
+         index="10"
          lat="40.258747966233"
          lon="-3.40487081549952"
          heading="186.988561314128"
@@ -3141,7 +3136,7 @@
          number="11"
          pushBack="BOTH"/>
       <TaxiwayParking
-         index="12"
+         index="11"
          lat="40.2575858258477"
          lon="-3.39044778539539"
          heading="94.4502320585373"
@@ -3151,7 +3146,7 @@
          number="12"
          pushBack="NONE"/>
       <TaxiwayParking
-         index="13"
+         index="12"
          lat="40.2593087525819"
          lon="-3.40143885720241"
          heading="179.236206054688"
@@ -3161,7 +3156,7 @@
          number="13"
          pushBack="NONE"/>
       <TaxiwayParking
-         index="14"
+         index="13"
          lat="40.2584985202359"
          lon="-3.40177605651131"
          heading="0"
@@ -3171,7 +3166,7 @@
          number="16"
          pushBack="NONE"/>
       <TaxiwayParking
-         index="15"
+         index="14"
          lat="40.2565714082539"
          lon="-3.41192647188972"
          heading="205.94667984809"
@@ -3180,13 +3175,9 @@
          name="PARKING"
          number="2"
          airlineCodes="ARV"
-         teeOffset1="10.4"
-         teeOffset2="13"
-         teeOffset3="17"
-         teeOffset4="19.5"
          pushBack="BOTH"/>
       <TaxiwayParking
-         index="16"
+         index="15"
          lat="40.2563997002959"
          lon="-3.41030042419442"
          heading="144.457835338476"
@@ -3196,7 +3187,7 @@
          number="4"
          pushBack="BOTH"/>
       <TaxiwayParking
-         index="17"
+         index="16"
          lat="40.2559965075186"
          lon="-3.41160298416059"
          heading="191.634347712536"
@@ -3206,7 +3197,7 @@
          number="3"
          pushBack="BOTH"/>
       <TaxiwayParking
-         index="18"
+         index="17"
          lat="40.2566637572816"
          lon="-3.40950657676594"
          heading="122.480867515358"
@@ -3216,7 +3207,7 @@
          number="5"
          pushBack="BOTH"/>
       <TaxiwayParking
-         index="19"
+         index="18"
          lat="40.2569436121055"
          lon="-3.40864501400946"
          heading="105.318128748088"
@@ -3226,7 +3217,7 @@
          number="6"
          pushBack="BOTH"/>
       <TaxiwayParking
-         index="20"
+         index="19"
          lat="40.2556163226778"
          lon="-3.41119390956942"
          heading="252.040904432866"
@@ -3236,7 +3227,7 @@
          number="25"
          pushBack="NONE"/>
       <TaxiwayParking
-         index="21"
+         index="20"
          lat="40.2576476993276"
          lon="-3.40922301887966"
          heading="185.074411944402"
@@ -3244,6 +3235,17 @@
          type="RAMP_GA_LARGE"
          name="PARKING"
          number="7"
+         pushBack="BOTH"/>
+      <TaxiwayParking
+         index="21"
+         lat="40.255248098"
+         lon="-3.416393115"
+         heading="174.3"
+         radius="40.1M"
+         type="GATE_HEAVY"
+         name="GATE"
+         number="3"
+         airlineCodes="ARV"
          pushBack="BOTH"/>
       <TaxiName
          index="0"
@@ -3416,7 +3418,7 @@
          />
       <TaxiwayPath
          type="PARKING"
-         start="63"
+         start="64"
          end="2"
          width="25.0M"
          weightLimit="0"
@@ -3429,7 +3431,7 @@
          />
       <TaxiwayPath
          type="PARKING"
-         start="64"
+         start="65"
          end="3"
          width="25.0M"
          weightLimit="0"
@@ -3442,21 +3444,8 @@
          />
       <TaxiwayPath
          type="PARKING"
-         start="65"
-         end="4"
-         width="25.0M"
-         weightLimit="0"
-         drawSurface="TRUE"
-         drawDetail="TRUE"
-         surface="CONCRETE"
-         name="0"
-         centerLine="TRUE"
-         centerLineLighted="TRUE"
-         />
-      <TaxiwayPath
-         type="PARKING"
          start="66"
-         end="5"
+         end="4"
          width="25.0M"
          weightLimit="0"
          drawSurface="TRUE"
@@ -3485,7 +3474,7 @@
       <TaxiwayPath
          type="PARKING"
          start="67"
-         end="6"
+         end="5"
          width="25.0M"
          weightLimit="0"
          drawSurface="TRUE"
@@ -3498,7 +3487,7 @@
       <TaxiwayPath
          type="PARKING"
          start="68"
-         end="7"
+         end="6"
          width="25.0M"
          weightLimit="0"
          drawSurface="TRUE"
@@ -3511,7 +3500,7 @@
       <TaxiwayPath
          type="PARKING"
          start="77"
-         end="9"
+         end="8"
          width="25.0M"
          weightLimit="0"
          drawSurface="TRUE"
@@ -3540,7 +3529,7 @@
       <TaxiwayPath
          type="PARKING"
          start="78"
-         end="10"
+         end="9"
          width="25.0M"
          weightLimit="0"
          drawSurface="TRUE"
@@ -3569,7 +3558,7 @@
       <TaxiwayPath
          type="PARKING"
          start="79"
-         end="11"
+         end="10"
          width="25.0M"
          weightLimit="0"
          drawSurface="TRUE"
@@ -3651,7 +3640,7 @@
       <TaxiwayPath
          type="PARKING"
          start="89"
-         end="13"
+         end="12"
          width="25.0M"
          weightLimit="0"
          drawSurface="TRUE"
@@ -3663,28 +3652,6 @@
          />
       <TaxiwayPath
          type="VEHICLE"
-         start="89"
-         end="91"
-         width="25.0M"
-         weightLimit="0"
-         drawSurface="TRUE"
-         drawDetail="TRUE"
-         surface="CONCRETE"
-         name="0"
-         />
-      <TaxiwayPath
-         type="VEHICLE"
-         start="91"
-         end="90"
-         width="25.0M"
-         weightLimit="0"
-         drawSurface="TRUE"
-         drawDetail="TRUE"
-         surface="CONCRETE"
-         name="0"
-         />
-      <TaxiwayPath
-         type="VEHICLE"
          start="70"
          end="0"
          width="25.0M"
@@ -3693,7 +3660,6 @@
          drawDetail="TRUE"
          surface="CONCRETE"
          name="0"
-         centerLine="TRUE"
          leftEdge="DASHED"
          rightEdge="DASHED"
          />
@@ -3707,9 +3673,8 @@
          drawDetail="TRUE"
          surface="CONCRETE"
          name="0"
-         centerLine="TRUE"
-         leftEdge="SOLID"
-         rightEdge="SOLID"
+         leftEdge="DASHED"
+         rightEdge="DASHED"
          />
       <TaxiwayPath
          type="VEHICLE"
@@ -3721,9 +3686,8 @@
          drawDetail="TRUE"
          surface="CONCRETE"
          name="0"
-         centerLine="TRUE"
-         leftEdge="SOLID"
-         rightEdge="SOLID"
+         leftEdge="DASHED"
+         rightEdge="DASHED"
          />
       <TaxiwayPath
          type="VEHICLE"
@@ -3735,9 +3699,8 @@
          drawDetail="TRUE"
          surface="CONCRETE"
          name="0"
-         centerLine="TRUE"
-         leftEdge="SOLID"
-         rightEdge="SOLID"
+         leftEdge="DASHED"
+         rightEdge="DASHED"
          />
       <TaxiwayPath
          type="TAXI"
@@ -3766,9 +3729,8 @@
          drawDetail="TRUE"
          surface="CONCRETE"
          name="0"
-         centerLine="TRUE"
-         leftEdge="SOLID"
-         rightEdge="SOLID"
+         leftEdge="DASHED"
+         rightEdge="DASHED"
          />
       <TaxiwayPath
          type="VEHICLE"
@@ -3780,14 +3742,13 @@
          drawDetail="TRUE"
          surface="CONCRETE"
          name="0"
-         centerLine="TRUE"
-         leftEdge="SOLID"
-         rightEdge="SOLID"
+         leftEdge="DASHED"
+         rightEdge="DASHED"
          />
       <TaxiwayPath
          type="PARKING"
          start="89"
-         end="14"
+         end="13"
          width="25.0M"
          weightLimit="0"
          drawSurface="TRUE"
@@ -3964,7 +3925,7 @@
       <TaxiwayPath
          type="PARKING"
          start="72"
-         end="8"
+         end="7"
          width="23.0M"
          weightLimit="0"
          drawSurface="TRUE"
@@ -4260,7 +4221,7 @@
       <TaxiwayPath
          type="PARKING"
          start="19"
-         end="12"
+         end="11"
          width="23.0M"
          weightLimit="0"
          drawSurface="FALSE"
@@ -4957,7 +4918,7 @@
       <TaxiwayPath
          type="PARKING"
          start="121"
-         end="19"
+         end="18"
          width="23.0M"
          weightLimit="0"
          drawSurface="TRUE"
@@ -4983,7 +4944,7 @@
       <TaxiwayPath
          type="PARKING"
          start="122"
-         end="18"
+         end="17"
          width="23.0M"
          weightLimit="0"
          drawSurface="TRUE"
@@ -5009,7 +4970,7 @@
       <TaxiwayPath
          type="PARKING"
          start="39"
-         end="16"
+         end="15"
          width="23.0M"
          weightLimit="0"
          drawSurface="TRUE"
@@ -5035,7 +4996,7 @@
       <TaxiwayPath
          type="PARKING"
          start="34"
-         end="17"
+         end="16"
          width="23.0M"
          weightLimit="0"
          drawSurface="TRUE"
@@ -5061,7 +5022,7 @@
       <TaxiwayPath
          type="PARKING"
          start="28"
-         end="15"
+         end="14"
          width="23.0M"
          weightLimit="0"
          drawSurface="TRUE"
@@ -5436,7 +5397,7 @@
       <TaxiwayPath
          type="PARKING"
          start="0"
-         end="20"
+         end="19"
          width="23.0M"
          weightLimit="0"
          drawSurface="FALSE"
@@ -5495,7 +5456,7 @@
       <TaxiwayPath
          type="PARKING"
          start="126"
-         end="21"
+         end="20"
          width="23.0M"
          weightLimit="0"
          drawSurface="TRUE"
@@ -5754,6 +5715,45 @@
          rightEdge="SOLID"
          rightEdgeLighted="TRUE"
          />
+      <TaxiwayPath
+         type="VEHICLE"
+         start="90"
+         end="91"
+         width="25.0M"
+         weightLimit="0"
+         drawSurface="TRUE"
+         drawDetail="TRUE"
+         surface="CONCRETE"
+         name="0"
+         leftEdge="DASHED"
+         rightEdge="DASHED"
+         />
+      <TaxiwayPath
+         type="VEHICLE"
+         start="91"
+         end="89"
+         width="25.0M"
+         weightLimit="0"
+         drawSurface="TRUE"
+         drawDetail="TRUE"
+         surface="CONCRETE"
+         name="0"
+         leftEdge="DASHED"
+         rightEdge="DASHED"
+         />
+      <TaxiwayPath
+         type="PARKING"
+         start="63"
+         end="21"
+         width="25.0M"
+         weightLimit="0"
+         drawSurface="TRUE"
+         drawDetail="TRUE"
+         surface="CONCRETE"
+         name="0"
+         centerLine="TRUE"
+         centerLineLighted="TRUE"
+         />
       <Jetway
          gateName="GATE"
          parkingNumber="1">
@@ -5778,24 +5778,6 @@
          <SceneryObject
             lat="40.2546522192166"
             lon="-3.41714307487773"
-            alt="0.0F"
-            altitudeIsAgl="TRUE"
-            pitch="0"
-            bank="0"
-            heading="90"
-            imageComplexity="NORMAL">
-            <LibraryObject
-               name="{bfcdf52b-9142-415c-8318-03c1b92ca9d9}"
-               scale="1.00"
-               />
-         </SceneryObject>
-      </Jetway>
-      <Jetway
-         gateName="GATE"
-         parkingNumber="3">
-         <SceneryObject
-            lat="40.2549379689415"
-            lon="-3.41615768400909"
             alt="0.0F"
             altitudeIsAgl="TRUE"
             pitch="0"
@@ -5886,6 +5868,24 @@
          <SceneryObject
             lat="40.2557510596901"
             lon="-3.41326769518263"
+            alt="0.0F"
+            altitudeIsAgl="TRUE"
+            pitch="0"
+            bank="0"
+            heading="90"
+            imageComplexity="NORMAL">
+            <LibraryObject
+               name="{bfcdf52b-9142-415c-8318-03c1b92ca9d9}"
+               scale="1.00"
+               />
+         </SceneryObject>
+      </Jetway>
+      <Jetway
+         gateName="GATE"
+         parkingNumber="3">
+         <SceneryObject
+            lat="40.2549379689415"
+            lon="-3.41615768400909"
             alt="0.0F"
             altitudeIsAgl="TRUE"
             pitch="0"
@@ -6062,36 +6062,36 @@
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
-         lat="40.2567049095682"
-         lon="-3.41515305845253"
+         lat="40.2567145209233"
+         lon="-3.41515808749807"
          heading="158"
          label="d&lt;[G4]"
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
-         lat="40.2569294857459"
-         lon="-3.41434065041026"
+         lat="40.2569374118185"
+         lon="-3.41434410620659"
          heading="158"
          label="d&lt;[G5]"
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
-         lat="40.2570949724107"
-         lon="-3.41375017684166"
+         lat="40.2570977223567"
+         lon="-3.41375497286782"
          heading="158"
          label="d&lt;[G6]"
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
-         lat="40.2572363328579"
-         lon="-3.41321996776282"
+         lat="40.2572399994525"
+         lon="-3.41323075884437"
          heading="158"
          label="d&lt;[G7]"
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
-         lat="40.2574042053356"
-         lon="-3.41261048437485"
+         lat="40.2574081102919"
+         lon="-3.41261661423522"
          heading="158"
          label="d&lt;[G8]"
          size="SIZE3"
@@ -6139,8 +6139,8 @@
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
-         lat="40.2605618208819"
-         lon="-3.40198010130176"
+         lat="40.260583387733"
+         lon="-3.4019957787315"
          heading="338"
          label="d[&lt;B]l[A]d ^W]d|[FUEL&gt;]"
          size="SIZE3"
@@ -6258,8 +6258,8 @@
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
-         lat="40.2580660476279"
-         lon="-3.41007619855809"
+         lat="40.2580962470549"
+         lon="-3.41009491163439"
          heading="158.452368584905"
          label="d[&lt; PARKING 1 -4]"
          size="SIZE3"
@@ -6293,8 +6293,8 @@
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
-         lat="40.2608273950463"
-         lon="-3.40112702621545"
+         lat="40.2608370679141"
+         lon="-3.40113244939068"
          heading="162.436096430608"
          label="d[&lt;FUEL]|^[A]|d[B&gt;]"
          size="SIZE3"
@@ -6433,7 +6433,7 @@
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
-         lat="40.2557143694843"
+         lat="40.2557192948918"
          lon="-3.41873216178751"
          heading="340.309192306618"
          label="d[G1&gt;]"
@@ -6461,57 +6461,57 @@
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
-         lat="40.2566814975391"
-         lon="-3.41517012724305"
+         lat="40.2566891866232"
+         lon="-3.41517767067382"
          heading="339.086574415317"
          label="d[G5&gt;]"
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
-         lat="40.2569082348986"
-         lon="-3.41435696442221"
+         lat="40.2569126382723"
+         lon="-3.41436272408439"
          heading="341.065255730421"
          label="d[G6&gt;]"
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
-         lat="40.2570727197856"
-         lon="-3.41376744313828"
+         lat="40.257074553083"
+         lon="-3.41377223916247"
          heading="345.678473752176"
          label="d[G7&gt;]"
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
-         lat="40.2572100913145"
-         lon="-3.41323965439624"
+         lat="40.2572155912065"
+         lon="-3.41325164448253"
          heading="342.062340893705"
          label="d[G8&gt;]"
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
-         lat="40.2580286512983"
-         lon="-3.41123356842051"
+         lat="40.2580515488415"
+         lon="-3.41125103998193"
          heading="341.210421243559"
          label="d[PARKING 1 -4 &gt;]"
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
-         lat="40.2588892100206"
-         lon="-3.40809677163208"
+         lat="40.2589125694581"
+         lon="-3.40811395890123"
          heading="337.421299312959"
          label="dRAMP-CARGO[9]&gt;"
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
-         lat="40.2592131458474"
-         lon="-3.40697704308365"
+         lat="40.2592204456716"
+         lon="-3.40698277219943"
          heading="335.26947385371"
          label="dRAMP-CARGO[10]&gt;"
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
-         lat="40.2595234420628"
-         lon="-3.40583502320832"
+         lat="40.2595303482334"
+         lon="-3.40584405878521"
          heading="336.412226357045"
          label="dRAMP-CARGO[11]&gt;"
          size="SIZE3"
@@ -6811,8 +6811,8 @@
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
-         lat="40.2585054235303"
-         lon="-3.40957331890911"
+         lat="40.2585111479161"
+         lon="-3.40957581486341"
          heading="337.421299312959"
          label="dPARKING[9]&gt;"
          size="SIZE3"

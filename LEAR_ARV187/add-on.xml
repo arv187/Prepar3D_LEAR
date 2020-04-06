@@ -12,4 +12,8 @@
     <Category>Texture</Category>
     <Path>texture</Path>
   </AddOn.Component>
+  <AddOn.Component>
+    <Category>Effects</Category>
+    <Path>Effects</Path>
+  </AddOn.Component>
 </SimBase.Document>
